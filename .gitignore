@@ -1,0 +1,5 @@
+output.txt
+foo*
+node_modules*
+.env*
+*.csv
